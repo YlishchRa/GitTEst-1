@@ -4,6 +4,16 @@
 #include <Windows.h>
 using namespace std;
 
+void Sum(int a, int b)
+{
+
+}
+
+void S()
+{
+
+}
+
 int main()
 {
 	
